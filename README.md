@@ -14,11 +14,10 @@ for quicker file setup.
       index.html        --> app layout file (the main html template file of the app)
       js/               --> javascript files
         app.js          --> application
-        controllers.js  --> application controllers
-        directives.js   --> application directives
-        filters.js      --> custom angular filters
-        services.js     --> custom angular services
-      lib/              --> angular and 3rd party javascript libraries
+        resultsController.js  --> application controllers
+        timer.js   --> application directives
+        timerDisplay.js      --> custom angular filters
+        resultsService.js     --> custom angular services
         angular/
           angular.js        --> the latest angular js
           angular.min.js    --> the latest minified angular js
